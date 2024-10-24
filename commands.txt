@@ -1,0 +1,20 @@
+cal - displays calendar of the current month.
+sudo passwd - prompts you to enter the current password, followed by a new password.
+ls - list all directories and files in the directory.
+whoami -  shows you the WSL user.
+man- displays the user manual for a command.
+whatis - displays description of a manual page.
+pwd - prints the present working directory
+cd - used to change the directory you're currently working in.
+cd ~ - automatically takes you to the /home/user/ workspace.
+cd .. - brings you back one folder to the parent directory
+ls -a - displays all files and folders along with hidden files
+ls -l - displayes all files and folders shows file and folder permissions
+ls -lh - displays all files and folders along with their size
+mkdir -p - creates a folder, and within it extra subfolders all in one line.
+touch - creates an empty file
+rm -rf-  deletes a file or folder immediately
+rm -i-  provides a prompt where the user has to answer yes or no before deleting the file/folder
+echo- provides a new way to create a file or displays the output 
+tac - provides the opposite or reversed output of cat command
+kill [pid]  - kills a process running currently
